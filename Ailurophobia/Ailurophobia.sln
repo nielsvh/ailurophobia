@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ailurophobia", "Ailurophobia\Ailurophobia.csproj", "{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlContentReader", "XmlContentReader\XmlContentReader.csproj", "{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlcontentWriter", "XmlcontentWriter2\XmlcontentWriter.csproj", "{FF49371F-4375-4ECF-BB99-39E8B50C0241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AilurophobiaContent", "Ailurophobia\Content\AilurophobiaContent.contentproj", "{74BA09BE-3AC0-4E5B-B198-6E0041532D98}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Debug|Zune = Debug|Zune
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|x86.ActiveCfg = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|x86.Build.0 = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Debug|Zune.ActiveCfg = Debug|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|Any CPU.ActiveCfg = Release|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|x86.ActiveCfg = Release|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|x86.Build.0 = Release|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|Xbox 360.ActiveCfg = Release|x86
+		{B77FC652-7E75-4F2C-A75D-D9C5BBDC9E00}.Release|Zune.ActiveCfg = Release|x86
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|Xbox 360.ActiveCfg = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Debug|Zune.ActiveCfg = Debug|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|x86.ActiveCfg = Release|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|Xbox 360.ActiveCfg = Release|Any CPU
+		{B4843E24-3808-4F3C-AFAB-FB2CAAD19826}.Release|Zune.ActiveCfg = Release|Any CPU
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Any CPU.ActiveCfg = Debug|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Mixed Platforms.Build.0 = Debug|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|x86.ActiveCfg = Debug|x86
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|x86.Build.0 = Debug|x86
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Zune.ActiveCfg = Debug|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Debug|Zune.Build.0 = Debug|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Any CPU.ActiveCfg = Release|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Mixed Platforms.Build.0 = Release|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|x86.ActiveCfg = Release|x86
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|x86.Build.0 = Release|x86
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Zune.ActiveCfg = Release|Zune
+		{FF49371F-4375-4ECF-BB99-39E8B50C0241}.Release|Zune.Build.0 = Release|Zune
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Debug|x86.ActiveCfg = Debug|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Debug|Zune.ActiveCfg = Debug|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Release|Any CPU.ActiveCfg = Release|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Release|x86.ActiveCfg = Release|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Release|Xbox 360.ActiveCfg = Release|x86
+		{74BA09BE-3AC0-4E5B-B198-6E0041532D98}.Release|Zune.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+background/sidebar#sidebar#0#0
+background/map#map#4#475
+background/slot#wepslot#20#325
+background/slot#wepslot#72#325
+background/slot#wepslot#45#375
+background/kitty#kitty#10#200
+background/mouse#mouse#35#35
+background/time#time#400#0

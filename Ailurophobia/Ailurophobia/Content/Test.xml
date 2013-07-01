@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[XmlContentReader.Obstacle]">
+    <Item>
+      <Type>0</Type>
+      <Location>100 100</Location>
+      <Rotation>0</Rotation>
+      <TextureAsset>tmp</TextureAsset>
+    </Item>
+    <Item>
+      <Type>1</Type>
+      <Location>0 0</Location>
+      <Rotation>0</Rotation>
+      <TextureAsset>tmp</TextureAsset>
+    </Item>
+    <Item>
+      <Type>1</Type>
+      <Location>2400 0</Location>
+      <Rotation>0</Rotation>
+      <TextureAsset>tmp</TextureAsset>
+    </Item>
+    <Item>
+      <Type>1</Type>
+      <Location>0 1800</Location>
+      <Rotation>0</Rotation>
+      <TextureAsset>tmp</TextureAsset>
+    </Item>
+    <Item>
+      <Type>1</Type>
+      <Location>2400 1800</Location>
+      <Rotation>0</Rotation>
+      <TextureAsset>tmp</TextureAsset>
+    </Item>
+  </Asset>
+</XnaContent>
